@@ -4,6 +4,7 @@
 - 名前をクリックして詳細からGPU利用かどうかを確認しておくこと（無駄にGPU使うと勿体ない）
 - 権限がないとできないのでメアドを自分に送ってください
 
+インスタンス名は`deeplearning-1-vm`です
 ![image](https://user-images.githubusercontent.com/34390337/216756394-3eb74e1f-b9e1-48b4-92f1-61c20a29e66f.png)
 
 
